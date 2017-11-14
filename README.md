@@ -1,4 +1,4 @@
-# (Exercism)[exercism.io] Programming Exercises
+# [Exercism](exercism.io) Programming Exercises
 
 * C#
 * Rust
